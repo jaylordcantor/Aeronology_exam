@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text.RegularExpressions;
 
 class Program
 {
@@ -61,7 +60,7 @@ class Program
                     {
                         int.TryParse(pattern.Substring(indexFrom,indexTo - indexFrom),out sequenceLength);
                         
-                        if(sequenceLength == 2)
+                        if(sequenceLength < 2)
                         {
                             Console.WriteLine("sequence default length is 2");
                             break;
