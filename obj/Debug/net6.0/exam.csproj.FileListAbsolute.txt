@@ -1,0 +1,15 @@
+C:\Users\jaylo\Desktop\exam\bin\Debug\net6.0\exam.exe
+C:\Users\jaylo\Desktop\exam\bin\Debug\net6.0\exam.deps.json
+C:\Users\jaylo\Desktop\exam\bin\Debug\net6.0\exam.runtimeconfig.json
+C:\Users\jaylo\Desktop\exam\bin\Debug\net6.0\exam.dll
+C:\Users\jaylo\Desktop\exam\bin\Debug\net6.0\exam.pdb
+C:\Users\jaylo\Desktop\exam\obj\Debug\net6.0\exam.csproj.AssemblyReference.cache
+C:\Users\jaylo\Desktop\exam\obj\Debug\net6.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaylo\Desktop\exam\obj\Debug\net6.0\exam.AssemblyInfoInputs.cache
+C:\Users\jaylo\Desktop\exam\obj\Debug\net6.0\exam.AssemblyInfo.cs
+C:\Users\jaylo\Desktop\exam\obj\Debug\net6.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\jaylo\Desktop\exam\obj\Debug\net6.0\exam.dll
+C:\Users\jaylo\Desktop\exam\obj\Debug\net6.0\refint\exam.dll
+C:\Users\jaylo\Desktop\exam\obj\Debug\net6.0\exam.pdb
+C:\Users\jaylo\Desktop\exam\obj\Debug\net6.0\exam.genruntimeconfig.cache
+C:\Users\jaylo\Desktop\exam\obj\Debug\net6.0\ref\exam.dll
